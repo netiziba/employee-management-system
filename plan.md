@@ -1,0 +1,5 @@
+- **Worker & Role Management**: A centralized directory to manage employee profiles, contact information, and specific job roles or designations within the organization.
+- **Project Lifecycle Tracking**: Tools to create and monitor the progress of various projects, including key details such as site locations, timelines, and current status.
+- **Asset Inventory (Vehicles & Equipment)**: A comprehensive registry to track company-owned vehicles and equipment, including their availability and operational condition.
+- **Resource Allocation**: The ability to assign specific workers, vehicles, and equipment to active projects to ensure clear accountability and resource tracking.
+- **Operational Dashboard**: A high-level summary view for administrators to see real-time availability of personnel and assets across all ongoing projects.
