@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "oxlint",
     "type-check": "tsc --noEmit",
-    "check-all": "npm run lint & npm run type-check & wait"
+    "check-all": "npm run lint & npm run type-check & wait",
+    "supabase": "pnpm exec supabase"
   },
   "dependencies": {
     "@supabase/ssr": "^0.6.1",
